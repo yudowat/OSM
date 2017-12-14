@@ -1,0 +1,227 @@
+Music Replacement List
+----------------------
+MSBT	Song	Song	
+Code	ID	Name
+----	----	----
+
+Menu
+S76	CRS01	Menu - Brawl Theme Remix
+S77	W33	Menu 2 Melee - Moon
+
+Battlefield
+S1	CRS02	Battlefield - Fighting of the Spirit
+S2	W34	Menu (Melee) - Conflict's Chime
+
+Final Destination
+S3	CRS03	Final Destination - Last Hunter
+S4	W35	Menu (Melee) Ver. 2 - That Person's Name Is
+
+3D Land
+N/A	A27a	Super Mario 3D Land Theme - Bean Bean Fields
+N/A	A27b	Beach Theme - Beachside Dream
+S7	A27	Super Mario 3D Land Theme / Beach Theme - Battle (Partners in Time)
+S8	A25	Super Mario Bros. 3 Medley - Boss Battle (Partners in Time)
+
+Golden Plains
+S9	A26	Athletic Theme / Ground Theme - Teehee Valley
+S10	A24	Ground Theme / Underground Theme - Birabuto Kingdom
+
+Rainbow Road
+S11	A30	Rainbow Road Medley - X-Naut Fortress
+S12	A31	Rainbow Road (Mario Kart 7) - Mixed Up Scramble
+
+Paper Mario
+N/A	A29a	Paper Mario (Ground) - Battle Theme
+N/A	A29b	Paper Mario (Ship) - Boss - Cortez
+N/A	A29c	Paper Mario (Bowser's Castle) - Boss - Bowser
+S37	A29	Paper Mario Medley - Never Let Up!
+S38	A28	Try, Try Again - Adventure's End
+
+Mushroomy Kingdom
+S57	A01	Ground Theme (Super Mario Bros.) - Gritzy Desert
+S58	A02	Underground Theme (Super Mario Bros.) - Still, the Road is Full of Dangers
+
+Jungle Japes
+S59	T06	Kongo Jungle - Rockface Rumble
+S60	B11	Gear Getaway - Mining Melancholy
+
+Gerudo Valley
+S17	C22	Gerudo Valley - Zelda Battle (TP)
+S18	C09	Ocarina of Time Medley - Ganondorf Battle Second Half (TP)
+
+Spirit Train
+S19	C23	Full Steam Ahead (Spirit Tracks) - Molgera (WWHD)
+S20	C20	Main Theme / Underworld Theme - Ganondorf Battle (WW)
+
+Brinstar
+S61	W27	Binstar - Doppelganger
+S62	W04	Brinstar Depths - Rundas Boss Theme
+
+Yoshi's Island
+S63	E02a	Obstacle Course (Spring / Summer) - Amazon
+S64	E02b	Obstacle Course (Fall / Winter) - Himalayas
+S65	E01	Ending (Yoshi's Story) - Bowser
+
+Dream Land
+S21	F14	Green Greens - No Change
+S22	F15	Castle LoLoLo - No Change
+S23	F16	Float Islands - No Change
+S24	F17	Bubbly Clouds - No Change
+S25	F18	Mt. DeDeDe - No Change
+S26	F13	Green Greens Ver. 2 - Red Canyon (Stage)
+
+Corneria
+S66	W08	Corneria - Battle in the Forgotten City
+S67	G12	Star Wolf's Theme / Sector Z - Defiers of Fate (Palamecia Assault Version)
+
+Unova Pokemon League
+S13	H11	N's Castle Medley - Battle! (Elite Four)
+S14	H12	Battle! (Reshiram / Zekrom) - Battle! Team Skull Boss
+
+Prism Tower
+S15	H13	Battle! (Trainer Battle) - Battle! Gladion
+S16	H14	Lumiose City - Battle! Hugh
+
+Mute City
+S33	I12	Mute City - White Land I
+S34	I11	Mute City Ver. 3 - Port Town
+
+Magicant
+S35	K11	Magicant / Eight Melodies (Mother) - No Change
+S36	K12	Smiles and Tears - Stairs of Time
+
+Arena Ferox
+S29	J14	ID (Purpose) - Conquest (Ablaze)
+S30	W17	Fire Emblem - The Devoted
+
+Flat Zone 2
+S71	R04	Flat Zone 2 - Blitz Off	
+S70	W14	Flat Zone - Will to Fight
+
+Reset Bomb Forest
+N/A	P05a	Wrath of the Reset Bomb (Part 1) - Blinded By Light
+N/A	P05b	Wrath of the Reset Bomb (Part 2) - Desperate Struggle
+S31	P05	Wrath of the Reset Bomb - Invisible Depths
+S32	P09	Dark Pit's Theme - Encounter
+
+WarioWare, Inc.
+S72	M01	WarioWare, Inc. - Boss - Doopliss
+S73	M08	Ashley's Song (English) - Zant Battle
+
+Distant Planet
+S68	L06	Main Theme (Pikmin) - Thunder Plains
+S69	L09	Stage Select - Mechonis Field
+
+Tortimer Island
+S27	N13	Tortimer Island Medley - Mi'ihen Highroad
+S28	N14	Kapp'n's Song - The Sunleth Waterscape
+
+Boxing Ring
+S55	Q18	Jogging / Countdown - Venus Lighthouse
+S56	R21	Minor Circuit - Jago's Theme
+
+Gaur Plain
+S53	R23	Gaur Plain - One Who Gets in Our Way
+S54	R24	You Will Know Our Names - Unfinished Battle
+
+Balloon Fight
+S43	Q15	Balloon Fight Medley - Stage 1 & 2 GnG
+S44	Q16	Balloon Trip - Jungle / Hanger
+
+Living Room
+S41	R18	Bath Time Theme - March of the Dreadnoughts
+S42	R19	Bath Time Theme (Vocal Mix) - You're Not Alone FFIX
+
+Find Mii
+S45	R27	Dark Lord - Force Your Way
+S46	R26	Save The World, Heroes! - Battle Theme FFXI
+
+Tomodachi Life
+S39	R22	Tomodachi Life - Battle Theme FFX
+S40	R20	Mii Plaza - Black Mage Village
+
+Pictochat 2
+S47	R02	Pictochat - Night of Fate
+S48	W20	Dr. Mario - The 13th Struggle
+
+Green Hill Zone
+S74	U01	Green Hill Zone - Hydro City Zone, Act II
+S75	U09	Live & Learn - Angel Island Zone
+
+Wily Castle
+S51	S01	Mega Man 2 Medley - Great Battlers
+S52	S04	Mega Man 2 Retro Medley - X Vs. Zero
+
+PAC-MAZE
+S49	V01	PAC-MAN - No Change
+S50	V02	PAC-MAN (Club Mix) - PAC-MAN'S PARK / BLOCK TOWN
+
+DLC Stages
+--------------------------
+
+Dream Land 64
+S116	T09	Dream Land (Super Smash Bros.) - Grand Doomer
+S117	F30	Ice Cream Island - Magolor (Phase 1)
+
+Susaku Castle
+S118	SF01a	Ryu Stage Type A - Volcanic Rim Stage
+N/A	SF01b	Ryu Stage Type A (Pinch) - Guile's Theme
+S119	SF05	Ryu Stage - Chun Li's Theme
+
+Peach's Castle 64
+S120	T10	Peach's Castle Stage - Slider
+S121	A69	Main Theme (Super Mario 64) - Happy Adventure, Delightful Adventure
+
+Hyrule Castle 64
+S122	T11	Hyrule Castle Stage - Deku Nuts' Castle
+S123	C36	Legend of Zelda Medley - Stone Tower Temple
+
+Super Mario Maker
+S126	A71	Ground Theme (Super Mario Bros.) - Title Lost levels
+S127	A66	Ground Theme (Super Mario Bros. 3) - Athletic
+S128	A72	Ground Theme (Super Mario World) - Athletic
+S129	A45	Ground Theme (New Super Mario Bros. U) - Forest
+S130	A70	Title (Super Mario Maker) - No Change
+
+Duck Hunt
+S124	Q19	Duck Hunt Medley - Battle 1 (Chrono Trigger)
+S125	Q24	Wrecking Crew Retro Medley - Into the Thick of it
+
+Midgar
+S131	FF01	Let the Battles Begin! - J-E-N-O-V-A
+S132	FF02	Fight On! - One-Winged Angel
+
+Umbra Clock Tower
+S133	BY04	Let's Hit The CLimax - Darkness of the Unknown
+S134	BY03	Theme of Bayonetta - Mysterious Destiny (Instrumental) - The Savior
+
+Smash Run
+------------------------
+
+S107	B06	Stickerbush Symphony - No Change Yet
+S97	C21	Dark World / Dark World Dungeon - No Change Yet
+S96	C24	Ballad of the Goddess / Ghirahim's Theme - No Change
+S110	F01	The Legendary Air Ride Machine - No Change
+S98	G13	Theme of Area 6 / Missle Slipstream - No Change
+S111	J04	With Mila's Divine Protection (Celica Map 1) - No Change Yet
+S99	P06	In the Space-Pirate Ship - No Change
+S108	P07	Boss Fight 1 - No Change Yet
+S114	P08	Dark Pit - No Change
+S115	P10	Wrath of the Reset Bomb - No Change
+S113	Q10	Tetris Type A - No Change Yet
+S100	Q17	The Mysterious Murasame Castle Medley - No Change
+S109	R25	Mechanical Rhythm - No Change
+S102	S02	Air Man Stage - No Change Yet
+S101	S03	Spark Man Stage - No Change Yet
+S103	T07	Credits (Smash Bros.): Ver. 2 - No Change
+S104	V03	PAC-MAN'S PARK / BLOCK TOWN - PAC-MAN (Club Mix)
+S106	W02	Rainbow Cruise - No Change
+S112	W24	Temple Theme - No Change
+S105	X18	Boss Battle - No Change
+
+Other (Relevant Only)
+------------------------
+S94	CRS04	Multi-Man Smash - No Change
+S5	CRS05	Master Hand - No Change
+S6	CRS06	Master Core - No Change
+S78	CRS07	Online Practice Stage  - March (Dissidia Final Fantasy)
